@@ -8,3 +8,14 @@ This is a much simpler version of our beloved Notepad with added Speech-to-text 
 4. Added Bold, Italic and Underline button
 5. Easy text alignment with Right, Left and Center Align Buttons.
 6. Attractive Interface
+
+# Requirments
+1. Tkinter (pre installed with Python)
+2. OS (pre installed with python)
+3. pip install pyttsx3
+4. pip install SpeechRecognition
+5. pip install PyAudio
+
+----------------------------------  OR  ------------------------------------
+
+Just download the executable file and install it (do not change the installation directory)

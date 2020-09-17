@@ -1,4 +1,4 @@
-# Voicepad-pro
+# Voicepad-Pro-Text-Editor
 This is a much simpler version of our beloved Notepad with added Speech-to-text and Text-to-speech feature.
 
 # Features

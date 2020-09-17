@@ -9,7 +9,7 @@ This is a much simpler version of our beloved Notepad with added Speech-to-text 
 5. Easy text alignment with Right, Left and Center Align Buttons.
 6. Attractive Interface
 
-# Requirments
+# Requirements
 1. Tkinter (pre installed with Python)
 2. OS (pre installed with python)
 3. pip install pyttsx3

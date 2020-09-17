@@ -16,6 +16,3 @@ This is a much simpler version of our beloved Notepad with added Speech-to-text 
 4. pip install SpeechRecognition
 5. pip install PyAudio
 
-----------------------------------  OR  ------------------------------------
-
-Just download the executable file and install it (do not change the installation directory)

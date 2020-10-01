@@ -1,5 +1,5 @@
 # Voicepad-Pro-Text-Editor
-This is a much simpler version of our beloved Notepad with added Speech-to-text and Text-to-speech feature.
+This is a much simpler version of our beloved Notepad with added Speech-to-text and Text-to-speech feature. Just speak words with voices notes it detect sound and type text on the Notepad with Speech-to-text.
 
 # Features
 1. Speech input
